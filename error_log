@@ -1,0 +1,5 @@
+[30-Sep-2021 08:25:12 UTC] PHP Notice:  Constant PASSWORD_DEFAULT already defined in /home/actdigis/public_html/update_pass.php on line 17
+[14-Oct-2021 11:12:35 Asia/Phnom_Penh] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[14-Oct-2021 11:12:35 Asia/Phnom_Penh] Exception ignored in shutdown function tool_monitor\eventobservers::process_buffer: Error reading from database
+[15-Oct-2021 10:51:20 Asia/Phnom_Penh] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[15-Oct-2021 10:51:20 Asia/Phnom_Penh] Exception ignored in shutdown function tool_monitor\eventobservers::process_buffer: Error reading from database

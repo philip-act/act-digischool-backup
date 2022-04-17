@@ -1,0 +1,4 @@
+[10-Nov-2021 15:47:25 Asia/Phnom_Penh] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[10-Nov-2021 15:47:25 Asia/Phnom_Penh] Exception ignored in shutdown function tool_monitor\eventobservers::process_buffer: Error reading from database
+[11-Nov-2021 15:44:56 Asia/Phnom_Penh] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[11-Nov-2021 15:44:56 Asia/Phnom_Penh] Exception ignored in shutdown function tool_monitor\eventobservers::process_buffer: Error reading from database
